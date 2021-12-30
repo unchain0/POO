@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "704a2633-d8f4-494c-a531-bcccfe6231a7": {
+      "ProjectGuid": "704a2633-d8f4-494c-a531-bcccfe6231a7",
+      "DisplayName": "93. DateTimeKind e padrão ISO 8601",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

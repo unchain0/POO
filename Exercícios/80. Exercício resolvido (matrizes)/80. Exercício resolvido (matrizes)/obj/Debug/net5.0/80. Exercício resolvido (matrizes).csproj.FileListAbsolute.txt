@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).exe
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).deps.json
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).runtimeconfig.json
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\ref\80. Exercício resolvido (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\bin\Debug\net5.0\80. Exercício resolvido (matrizes).pdb
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\ref\80. Exercício resolvido (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).pdb
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).genruntimeconfig.cache
+C:\Users\felip\source\C#\POO\Exercícios\80. Exercício resolvido (matrizes)\80. Exercício resolvido (matrizes)\obj\Debug\net5.0\80. Exercício resolvido (matrizes).csproj.AssemblyReference.cache

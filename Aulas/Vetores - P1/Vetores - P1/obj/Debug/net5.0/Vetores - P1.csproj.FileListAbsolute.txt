@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.exe
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.deps.json
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.runtimeconfig.json
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.dll
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\ref\Vetores - P1.dll
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\bin\Debug\net5.0\Vetores - P1.pdb
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.AssemblyInfo.cs
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.dll
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\ref\Vetores - P1.dll
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.pdb
+C:\Users\felip\source\repos\Aulas\Vetores - P1\Vetores - P1\obj\Debug\net5.0\Vetores - P1.genruntimeconfig.cache

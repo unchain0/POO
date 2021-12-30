@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.exe
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.deps.json
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.runtimeconfig.json
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.dll
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\ref\Modificador de parâmetros params.dll
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\bin\Debug\net5.0\Modificador de parâmetros params.pdb
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.AssemblyInfo.cs
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.dll
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\ref\Modificador de parâmetros params.dll
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.pdb
+C:\Users\felip\source\repos\Aulas\Modificador de parâmetros params\Modificador de parâmetros params\obj\Debug\net5.0\Modificador de parâmetros params.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).exe
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).deps.json
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).runtimeconfig.json
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).runtimeconfig.dev.json
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).dll
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\ref\48. Exercícios propostos (membros estáticos).dll
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\bin\Debug\net5.0\48. Exercícios propostos (membros estáticos).pdb
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).AssemblyInfo.cs
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).dll
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\ref\48. Exercícios propostos (membros estáticos).dll
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).pdb
+C:\Users\felip\source\C#\Exercícios\48. Exercícios propostos (membros estáticos)\48. Exercícios propostos (membros estáticos)\obj\Debug\net5.0\48. Exercícios propostos (membros estáticos).genruntimeconfig.cache

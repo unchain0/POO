@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.exe
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.deps.json
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.runtimeconfig.json
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.dll
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\ref\33. Exercícios propostos - PARTE 3.dll
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\bin\Debug\net5.0\33. Exercícios propostos - PARTE 3.pdb
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.AssemblyInfo.cs
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.dll
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\ref\33. Exercícios propostos - PARTE 3.dll
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.pdb
+C:\Users\felip\source\C#\Exercícios\33. Exercícios propostos - PARTE 3\obj\Debug\net5.0\33. Exercícios propostos - PARTE 3.genruntimeconfig.cache

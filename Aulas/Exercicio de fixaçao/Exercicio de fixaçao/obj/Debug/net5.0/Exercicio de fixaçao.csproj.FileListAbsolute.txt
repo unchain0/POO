@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.exe
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.deps.json
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.runtimeconfig.json
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.dll
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\ref\Exercicio de fixaçao.dll
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\bin\Debug\net5.0\Exercicio de fixaçao.pdb
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.AssemblyInfo.cs
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.dll
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\ref\Exercicio de fixaçao.dll
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.pdb
+C:\Users\felip\source\repos\Exercicio de fixaçao\Exercicio de fixaçao\obj\Debug\net5.0\Exercicio de fixaçao.genruntimeconfig.cache

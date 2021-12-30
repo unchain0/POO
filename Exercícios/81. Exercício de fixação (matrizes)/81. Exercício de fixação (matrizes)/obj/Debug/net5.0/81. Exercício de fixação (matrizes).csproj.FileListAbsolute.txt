@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).exe
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).deps.json
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).runtimeconfig.json
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\ref\81. Exercício de fixação (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\bin\Debug\net5.0\81. Exercício de fixação (matrizes).pdb
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\ref\81. Exercício de fixação (matrizes).dll
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).pdb
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).genruntimeconfig.cache
+C:\Users\felip\source\C#\POO\Exercícios\81. Exercício de fixação (matrizes)\81. Exercício de fixação (matrizes)\obj\Debug\net5.0\81. Exercício de fixação (matrizes).csproj.AssemblyReference.cache

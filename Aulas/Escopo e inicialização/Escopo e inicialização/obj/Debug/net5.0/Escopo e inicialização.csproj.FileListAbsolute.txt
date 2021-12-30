@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.exe
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.deps.json
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.runtimeconfig.json
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.dll
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\ref\Escopo e inicialização.dll
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\bin\Debug\net5.0\Escopo e inicialização.pdb
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.AssemblyInfo.cs
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.dll
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\ref\Escopo e inicialização.dll
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.pdb
+C:\Users\felip\source\repos\Escopo e inicialização\Escopo e inicialização\obj\Debug\net5.0\Escopo e inicialização.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.exe
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.deps.json
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.runtimeconfig.json
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.dll
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\ref\Estrutura repetitiva for.dll
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\bin\Debug\net5.0\Estrutura repetitiva for.pdb
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.AssemblyInfo.cs
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.dll
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\ref\Estrutura repetitiva for.dll
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.pdb
+C:\Users\felip\source\repos\Aulas\Estrutura repetitiva for\Estrutura repetitiva for\obj\Debug\net5.0\Estrutura repetitiva for.genruntimeconfig.cache

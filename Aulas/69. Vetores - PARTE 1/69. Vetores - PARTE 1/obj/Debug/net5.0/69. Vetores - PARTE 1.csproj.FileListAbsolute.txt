@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.exe
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.deps.json
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.runtimeconfig.json
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.dll
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\ref\69. Vetores - PARTE 1.dll
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\bin\Debug\net5.0\69. Vetores - PARTE 1.pdb
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.AssemblyInfo.cs
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.dll
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\ref\69. Vetores - PARTE 1.dll
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.pdb
+C:\Users\felip\source\C#\Aulas\69. Vetores - PARTE 1\69. Vetores - PARTE 1\obj\Debug\net5.0\69. Vetores - PARTE 1.genruntimeconfig.cache

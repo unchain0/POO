@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.exe
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.deps.json
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.runtimeconfig.json
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.dll
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\ref\Exercícios de Algoritmos 1-100.dll
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\bin\Debug\net5.0\Exercícios de Algoritmos 1-100.pdb
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.AssemblyInfo.cs
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.dll
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\ref\Exercícios de Algoritmos 1-100.dll
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.pdb
+C:\Users\felip\source\C#\Exercícios\Exercícios de Algoritmos 1-100\Exercícios de Algoritmos 1-100\obj\Debug\net5.0\Exercícios de Algoritmos 1-100.genruntimeconfig.cache

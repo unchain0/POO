@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Primeiros exercícios (classes, objetos e atributos)", "40. Primeiros exercícios (classes, objetos e atributos)\40. Primeiros exercícios (classes, objetos e atributos).csproj", "{8C7B24C7-E9F0-4BF7-B26B-F21DE5BFB77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7B24C7-E9F0-4BF7-B26B-F21DE5BFB77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7B24C7-E9F0-4BF7-B26B-F21DE5BFB77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7B24C7-E9F0-4BF7-B26B-F21DE5BFB77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7B24C7-E9F0-4BF7-B26B-F21DE5BFB77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27CB6A1E-4EE8-4A3A-A97C-A25CF1AB2ADD}
+	EndGlobalSection
+EndGlobal

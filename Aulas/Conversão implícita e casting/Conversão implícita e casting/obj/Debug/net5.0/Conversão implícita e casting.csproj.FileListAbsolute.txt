@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.AssemblyInfo.cs
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.exe
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.deps.json
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.runtimeconfig.json
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.dll
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\ref\Conversão implícita e casting.dll
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\bin\Debug\net5.0\Conversão implícita e casting.pdb
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.dll
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\ref\Conversão implícita e casting.dll
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.pdb
+C:\Users\felip\source\repos\Conversão implícita e casting\Conversão implícita e casting\obj\Debug\net5.0\Conversão implícita e casting.genruntimeconfig.cache

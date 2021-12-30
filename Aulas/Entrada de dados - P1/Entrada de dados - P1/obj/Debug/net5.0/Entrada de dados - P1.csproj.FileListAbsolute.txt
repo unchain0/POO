@@ -1,0 +1,2 @@
+C:\Users\felip\source\repos\Entrada de dados - P1\Entrada de dados - P1\bin\Debug\net5.0\Entrada de dados - P1.exe
+C:\Users\felip\source\repos\Entrada de dados - P1\Entrada de dados - P1\bin\Debug\net5.0\Entrada de dados - P1.dll

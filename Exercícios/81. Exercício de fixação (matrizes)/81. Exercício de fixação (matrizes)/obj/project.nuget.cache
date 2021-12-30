@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmsyX1ZiHJ0USrtJx+J1SgbomvMQYUru+e9dK4gOPXjMdiMpQSZaD/eH1aLGhSch5cew82qzWrxv1+miHT4y9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\POO\\Exercícios\\81. Exercício de fixação (matrizes)\\81. Exercício de fixação (matrizes)\\81. Exercício de fixação (matrizes).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

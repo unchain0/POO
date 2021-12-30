@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "93. DateTimeKind e padrão ISO 8601/1.0.0": {
+        "runtime": {
+          "93. DateTimeKind e padrão ISO 8601.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "93. DateTimeKind e padrão ISO 8601/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

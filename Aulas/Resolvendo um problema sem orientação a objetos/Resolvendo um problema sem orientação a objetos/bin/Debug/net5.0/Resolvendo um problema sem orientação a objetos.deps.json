@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Resolvendo um problema sem orientação a objetos/1.0.0": {
+        "runtime": {
+          "Resolvendo um problema sem orientação a objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resolvendo um problema sem orientação a objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

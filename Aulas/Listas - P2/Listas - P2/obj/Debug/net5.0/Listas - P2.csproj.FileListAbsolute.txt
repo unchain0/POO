@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.exe
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.deps.json
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.runtimeconfig.json
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.dll
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\ref\Listas - P2.dll
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\bin\Debug\net5.0\Listas - P2.pdb
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.AssemblyInfo.cs
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.dll
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\ref\Listas - P2.dll
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.pdb
+C:\Users\felip\source\repos\Aulas\Listas - P2\Listas - P2\obj\Debug\net5.0\Listas - P2.genruntimeconfig.cache

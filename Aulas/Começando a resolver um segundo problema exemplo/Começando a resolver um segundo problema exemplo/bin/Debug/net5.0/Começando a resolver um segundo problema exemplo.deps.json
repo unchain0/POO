@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Começando a resolver um segundo problema exemplo/1.0.0": {
+        "runtime": {
+          "Começando a resolver um segundo problema exemplo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Começando a resolver um segundo problema exemplo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

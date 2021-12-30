@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.exe
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.deps.json
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.runtimeconfig.json
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.dll
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\ref\Estrutura repetitiva while.dll
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\net5.0\Estrutura repetitiva while.pdb
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.AssemblyInfo.cs
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.dll
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\ref\Estrutura repetitiva while.dll
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.pdb
+C:\Users\felip\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\net5.0\Estrutura repetitiva while.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.exe
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.deps.json
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.dll
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\ref\91. Propriedades e operações com DateTime.dll
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\bin\Debug\net5.0\91. Propriedades e operações com DateTime.pdb
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.dll
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\ref\91. Propriedades e operações com DateTime.dll
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.pdb
+C:\Users\felip\source\C#\POO\Aulas\91. Propriedades e operações com DateTime\91. Propriedades e operações com DateTime\obj\Debug\net5.0\91. Propriedades e operações com DateTime.genruntimeconfig.cache

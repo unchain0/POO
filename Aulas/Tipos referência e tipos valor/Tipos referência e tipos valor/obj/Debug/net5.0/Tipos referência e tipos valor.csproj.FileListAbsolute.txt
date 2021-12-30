@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.exe
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.deps.json
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.runtimeconfig.json
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.dll
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\ref\Tipos referência e tipos valor.dll
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net5.0\Tipos referência e tipos valor.pdb
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.AssemblyInfo.cs
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.dll
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\ref\Tipos referência e tipos valor.dll
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.pdb
+C:\Users\felip\source\repos\Aulas\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net5.0\Tipos referência e tipos valor.genruntimeconfig.cache

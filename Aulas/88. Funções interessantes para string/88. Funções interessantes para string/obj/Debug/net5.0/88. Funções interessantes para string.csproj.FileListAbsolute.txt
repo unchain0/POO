@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.exe
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.deps.json
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.dll
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\ref\88. Funções interessantes para string.dll
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\bin\Debug\net5.0\88. Funções interessantes para string.pdb
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.dll
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\ref\88. Funções interessantes para string.dll
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.pdb
+C:\Users\felip\source\C#\POO\Aulas\88. Funções interessantes para string\88. Funções interessantes para string\obj\Debug\net5.0\88. Funções interessantes para string.genruntimeconfig.cache

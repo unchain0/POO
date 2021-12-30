@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.exe
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.deps.json
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.dll
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\ref\86. Sintaxe alternativa.dll
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\bin\Debug\net5.0\86. Sintaxe alternativa.pdb
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.dll
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\ref\86. Sintaxe alternativa.dll
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.pdb
+C:\Users\felip\source\C#\POO\Aulas\86. Sintaxe alternativa\86. Sintaxe alternativa\obj\Debug\net5.0\86. Sintaxe alternativa.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.exe
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.deps.json
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.dll
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\ref\89. DateTime - representando data e hora.dll
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\bin\Debug\net5.0\89. DateTime - representando data e hora.pdb
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.dll
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\ref\89. DateTime - representando data e hora.dll
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.pdb
+C:\Users\felip\source\C#\POO\Aulas\89. DateTime - representando data e hora\89. DateTime - representando data e hora\obj\Debug\net5.0\89. DateTime - representando data e hora.genruntimeconfig.cache

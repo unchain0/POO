@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.exe
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.deps.json
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.runtimeconfig.json
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.dll
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\ref\60. Exercício de fixação.dll
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\bin\Debug\net5.0\60. Exercício de fixação.pdb
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.AssemblyInfo.cs
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.dll
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\ref\60. Exercício de fixação.dll
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.pdb
+C:\Users\felip\source\C#\Exercícios\60. Exercício de fixação\60. Exercício de fixação\obj\Debug\net5.0\60. Exercício de fixação.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.exe
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.deps.json
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.runtimeconfig.dev.json
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.dll
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\ref\90. TimeSpan - representando durações.dll
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\bin\Debug\net5.0\90. TimeSpan - representando durações.pdb
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.dll
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\ref\90. TimeSpan - representando durações.dll
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.pdb
+C:\Users\felip\source\C#\POO\Aulas\90. TimeSpan - representando durações\90. TimeSpan - representando durações\obj\Debug\net5.0\90. TimeSpan - representando durações.genruntimeconfig.cache

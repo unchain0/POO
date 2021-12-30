@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "88. Funções interessantes para string/1.0.0": {
+        "runtime": {
+          "88. Funções interessantes para string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "88. Funções interessantes para string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

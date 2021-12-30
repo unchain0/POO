@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).exe
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).deps.json
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).runtimeconfig.json
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).runtimeconfig.dev.json
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).dll
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\ref\71. Exercício de fixação (vetores).dll
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\bin\Debug\net5.0\71. Exercício de fixação (vetores).pdb
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).AssemblyInfo.cs
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).dll
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\ref\71. Exercício de fixação (vetores).dll
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).pdb
+C:\Users\felip\source\C#\Exercícios\71. Exercício de fixação (vetores)\71. Exercício de fixação (vetores)\obj\Debug\net5.0\71. Exercício de fixação (vetores).genruntimeconfig.cache

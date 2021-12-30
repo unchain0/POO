@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1T+9Rym3cEcFTSZIsrDBZ9i2P9Y1Qt4eXVYbHYnyas6b70UGxs/dTr8RDkz1RTra2MHy5BRrHQgF6L4921GdEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\POO\\Aulas\\88. Funções interessantes para string\\88. Funções interessantes para string\\88. Funções interessantes para string.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

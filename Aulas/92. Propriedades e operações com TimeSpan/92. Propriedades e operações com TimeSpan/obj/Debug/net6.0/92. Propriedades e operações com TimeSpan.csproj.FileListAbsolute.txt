@@ -1,0 +1,15 @@
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\92. Propriedades e operações com TimeSpan.exe
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\92. Propriedades e operações com TimeSpan.deps.json
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\92. Propriedades e operações com TimeSpan.runtimeconfig.json
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\92. Propriedades e operações com TimeSpan.dll
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\ref\92. Propriedades e operações com TimeSpan.dll
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\bin\Debug\net6.0\92. Propriedades e operações com TimeSpan.pdb
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.AssemblyInfo.cs
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.dll
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\ref\92. Propriedades e operações com TimeSpan.dll
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.pdb
+C:\Users\felip\source\C#\POO\Aulas\92. Propriedades e operações com TimeSpan\92. Propriedades e operações com TimeSpan\obj\Debug\net6.0\92. Propriedades e operações com TimeSpan.genruntimeconfig.cache
