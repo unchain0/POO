@@ -2,6 +2,7 @@
 #pragma warning disable CS8600
 
 using _126._Herança.Entities;
+using System.Globalization;
 
 #region Herança
 BusinessAccount account = new(8010, "Bob Brown", 100.0, 500.0);
@@ -12,7 +13,7 @@ Console.WriteLine(account.Balance);
 #endregion
 
 #region Upcasting e Downcasting
-Account acc = new(1001, "Alex", 0.0);
+// Account acc = new(1001, "Alex", 0.0);
 BusinessAccount bacc = new(1002, "Maria", 0.0, 500.0);
 
 // UPCASTING
@@ -46,7 +47,7 @@ if (acc3 is SavingsAccount)
 #endregion
 
 #region Polimorfismo
-acc1 = new Account(1001, "Alex", 500.0);
+// acc1 = new Account(1001, "Alex", 500.0);
 acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
 
 acc1.Withdraw(10.0);
@@ -54,4 +55,33 @@ acc2.Withdraw(10.0);
 
 Console.WriteLine(acc1.Balance);
 Console.WriteLine(acc2.Balance);
+Console.WriteLine();
+#endregion
+
+#region Classes abstratas
+List<Account> list = new();
+
+list.Add(new SavingsAccount(1001, "Alex", 500.0, 0.01));
+list.Add(new BusinessAccount(1002, "Maria", 500.0, 400.0));
+list.Add(new SavingsAccount(1003, "Bob", 500.0, 0.01));
+list.Add(new BusinessAccount(1004, "Anna", 500.0, 500.0));
+
+double sum = 0;
+foreach (Account acc in list)
+{
+    sum += acc.Balance;
+}
+Console.WriteLine($"Total balance: {sum.ToString("F2", CultureInfo.InvariantCulture)}");
+
+foreach (Account acc in list)
+{
+    acc.Withdraw(10.0);
+}
+Console.WriteLine();
+
+foreach (Account acc in list)
+{
+    Console.WriteLine($"Updated balance for account {acc.Number}: {acc.Balance.ToString("F2", CultureInfo.InvariantCulture)}");
+}
+Console.WriteLine();
 #endregion

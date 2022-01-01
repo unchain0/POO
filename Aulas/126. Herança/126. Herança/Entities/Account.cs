@@ -2,7 +2,7 @@
 
 namespace _126._Herança.Entities
 {
-    internal class Account
+    internal abstract class Account
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }
