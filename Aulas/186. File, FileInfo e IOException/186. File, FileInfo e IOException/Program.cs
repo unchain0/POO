@@ -14,7 +14,9 @@ try
 }
 catch (IOException e)
 {
-    Console.WriteLine("An error occurred\n" + e.Message);
+    Console.WriteLine("An error occurred:\n" + e.Message);
     FileInfo deleteFile = new(targetPath);
+
     deleteFile.Delete();
+    Console.WriteLine("Deleted: " + targetPath);
 }
