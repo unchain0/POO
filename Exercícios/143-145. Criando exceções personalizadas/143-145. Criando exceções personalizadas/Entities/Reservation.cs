@@ -20,7 +20,7 @@ namespace _143_145._Criando_exceções_personalizadas.Entities
             CheckOut = checkOut;
         }
 
-        public double Duration()
+        public int Duration()
         {
             TimeSpan duration = CheckOut.Subtract(CheckIn);
             return (int)duration.TotalDays;
