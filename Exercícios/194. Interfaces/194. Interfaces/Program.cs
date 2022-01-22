@@ -20,8 +20,4 @@ CarRental carRental = new(start, finish, new Vehicle(model));
 RentalService rentalService = new(hour, day, new BrazilTaxService());
 rentalService.ProcessInvoice(carRental);
 
-<<<<<<< HEAD
 Console.WriteLine("\nINVOICE:" + carRental.Invoice);
-=======
-Console.WriteLine("\nINVOICE:" + carRental.Invoice);
->>>>>>> 35db35cca472ca3bffaf6868e93fff7e75a87fde

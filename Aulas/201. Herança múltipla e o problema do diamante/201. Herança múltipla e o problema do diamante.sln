@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "201. Herança múltipla e o problema do diamante", "201. Herança múltipla e o problema do diamante\201. Herança múltipla e o problema do diamante.csproj", "{518A9B8A-3985-4711-BD9D-68832A7C6A98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAA55A78-6E81-4FBE-BE3A-4BE127C3ECBA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518A9B8A-3985-4711-BD9D-68832A7C6A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518A9B8A-3985-4711-BD9D-68832A7C6A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518A9B8A-3985-4711-BD9D-68832A7C6A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518A9B8A-3985-4711-BD9D-68832A7C6A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C220EA49-EEDD-47CA-8ABF-71915420D6C9}
+	EndGlobalSection
+EndGlobal
