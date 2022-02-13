@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "210. Como coleções hash comparam igualdade", "210. Como coleções hash comparam igualdade\210. Como coleções hash comparam igualdade.csproj", "{1925FE06-CF3D-40DD-B5FE-88D06428FB07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{172443A0-28A6-410F-B83E-4FEACA9D5FEC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1925FE06-CF3D-40DD-B5FE-88D06428FB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1925FE06-CF3D-40DD-B5FE-88D06428FB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1925FE06-CF3D-40DD-B5FE-88D06428FB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1925FE06-CF3D-40DD-B5FE-88D06428FB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E4BC1E-7AE8-42FB-BDBB-45589CE8602C}
+	EndGlobalSection
+EndGlobal
