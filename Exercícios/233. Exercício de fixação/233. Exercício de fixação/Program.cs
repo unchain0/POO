@@ -4,6 +4,7 @@
 
 using _233._Exercício_de_fixação.Entities;
 using System.Globalization;
+// ReSharper disable All
 
 static void Print<T>(string message, IEnumerable<T> collection) {
     Console.WriteLine(message);

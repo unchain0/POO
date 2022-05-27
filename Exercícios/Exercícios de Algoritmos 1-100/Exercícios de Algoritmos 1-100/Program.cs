@@ -1,17 +1,20 @@
 ﻿using System;
 
-namespace Exercícios_de_Algoritmos_1_100 {
-
-    internal class Program {
-
-        private static void Main(string[] args) {
+namespace Exercícios_de_Algoritmos_1_100
+{
+    internal class Program
+    {
+        private static void Main()
+        {
             ex045();
         }
 
-        public static void ex038() {
-            int i = 6;
+        public static void ex038()
+        {
+            var i = 6;
 
-            while (i <= 11) {
+            while (i <= 11)
+            {
                 Console.Write("{0} ", i);
                 i++;
             }
@@ -19,10 +22,12 @@ namespace Exercícios_de_Algoritmos_1_100 {
             Console.WriteLine("Acabou!");
         }
 
-        public static void ex039() {
-            int i = 10;
+        public static void ex039()
+        {
+            var i = 10;
 
-            while (i >= 3) {
+            while (i >= 3)
+            {
                 Console.Write("{0} ", i);
                 i--;
             }
@@ -30,10 +35,12 @@ namespace Exercícios_de_Algoritmos_1_100 {
             Console.WriteLine("Acabou!");
         }
 
-        public static void ex040() {
-            int i = 0;
+        public static void ex040()
+        {
+            var i = 0;
 
-            while (i <= 18) {
+            while (i <= 18)
+            {
                 Console.Write("{0} ", i);
                 i += 3;
             }
@@ -41,10 +48,12 @@ namespace Exercícios_de_Algoritmos_1_100 {
             Console.WriteLine("Acabou!");
         }
 
-        public static void ex041() {
-            int i = 100;
+        public static void ex041()
+        {
+            var i = 100;
 
-            while (i >= 0) {
+            while (i >= 0)
+            {
                 Console.Write("{0} ", i);
                 i -= 5;
             }
@@ -52,100 +61,118 @@ namespace Exercícios_de_Algoritmos_1_100 {
             Console.WriteLine("Acabou!");
         }
 
-        public static void ex042() {
+        public static void ex042()
+        {
             // Faça um algoritmo que pergunte ao usuário um número inteiro e positivo qualquer e
             // mostre uma contagem até esse valor:
 
             Console.Write("Digite um valor: ");
-            int valor = int.Parse(Console.ReadLine());
-            int i = 1;
+            var valor = int.Parse(Console.ReadLine());
+            var i = 1;
 
             Console.Write("Contador: ");
-            while (i <= valor) {
+            while (i <= valor)
+            {
                 Console.Write("{0} ", i);
                 i++;
             }
+
             Console.WriteLine("Acabou!");
         }
 
-        public static void ex043() {
+        public static void ex043()
+        {
             // Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1, marcando os
             // números que forem divisíveis por 4
 
             Console.Write("1-");
-            int i = int.Parse(Console.ReadLine());
+            var i = int.Parse(Console.ReadLine());
             Console.Write("Divisiveis por: ");
-            int d = int.Parse(Console.ReadLine());
+            var d = int.Parse(Console.ReadLine());
             Console.Write("Mostrar somente os números divisiveis (s/n)? ");
-            char option = char.Parse(Console.ReadLine());
+            var option = char.Parse(Console.ReadLine());
 
-            if (option == 's') {
+            if (option == 's')
+            {
                 Console.Write("\n");
-                while (i >= 1) {
-                    if (i % d == 0) {
+                while (i >= 1)
+                {
+                    if (i % d == 0)
+                    {
                         Console.Write("{0} ", i);
                     }
 
                     i--;
                 }
-                Console.Write("\n");
-            } else if (option == 'n') {
-                Console.Write("\n");
-                while (i >= 1) {
-                    if (i % d == 0) {
-                        Console.Write("[{0}] \n", i);
-                    } else {
-                        Console.Write("{0} ", i);
-                    }
 
+                Console.Write("\n");
+            }
+            else if (option == 'n')
+            {
+                Console.Write("\n");
+                while (i >= 1)
+                {
+                    Console.Write(i % d == 0 ? "[{0}] \n" : "{0} ", i);
                     i--;
                 }
+
                 Console.Write("\n");
             }
         }
 
-        public static void ex044() {
+        public static void ex044()
+        {
             // Crie um algoritmo que leia o valor inicial da contagem, o valor final e o incremento,
             // mostrando em seguida todos os valores no intervalo:
 
             Console.Write("Digite o primeiro Valor: ");
-            int pValor = int.Parse(Console.ReadLine());
+            var pValor = int.Parse(Console.ReadLine());
             Console.Write("Digite o último Valor: ");
-            int uValor = int.Parse(Console.ReadLine());
+            var uValor = int.Parse(Console.ReadLine());
             Console.Write("Digite o incremento: ");
-            int i = int.Parse(Console.ReadLine());
+            var i = int.Parse(Console.ReadLine());
             Console.Write("Contagem: ");
 
-            while (pValor <= uValor) {
+            while (pValor <= uValor)
+            {
                 Console.Write("{0} ", pValor);
                 pValor += i;
             }
+
             Console.Write("Acabou!\n\n");
         }
 
-        public static void ex045() {
+        public static void ex045()
+        {
             // O programa acima vai ter um problema quando digitarmos o primeiro valor maior que o
             // último. Resolva esse problema com um código que funcione em qualquer situação.
 
             Console.Write("Digite o primeiro Valor: ");
-            int pValor = int.Parse(Console.ReadLine());
+            var pValor = int.Parse(Console.ReadLine());
             Console.Write("Digite o último Valor: ");
-            int uValor = int.Parse(Console.ReadLine());
+            var uValor = int.Parse(Console.ReadLine());
             Console.Write("Digite o incremento: ");
-            int i = int.Parse(Console.ReadLine());
+            var i = int.Parse(Console.ReadLine());
             Console.Write("Contagem: ");
 
-            if (pValor < uValor) {
-                while (pValor <= uValor) {
+            if (pValor < uValor)
+            {
+                while (pValor <= uValor)
+                {
                     Console.Write("{0} ", pValor);
                     pValor += i;
                 }
+
                 Console.Write("Acabou!\n\n");
-            } else {
-                while (uValor <= pValor) {
+            }
+            else
+            {
+                while (uValor <= pValor)
+                {
                     Console.Write("{0} ", uValor);
                     uValor += i;
                 }
+
                 Console.Write("Acabou!\n\n");
             }
         }

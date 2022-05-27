@@ -1,16 +1,21 @@
-﻿namespace _232._Exercício_resolvido.Entities {
-    internal class Product {
-        public string? Name { get; set; }
-        public double Price { get; set; }
+﻿using System.Globalization;
 
-        public Product(string? name, double price) {
-            Name = name;
-            Price = price;
-        }
+namespace _232._Exercício_resolvido.Entities;
 
-        public override string ToString() {
-            return $"{Name}," +
-                $"{Price.ToString("F2", System.Globalization.CultureInfo.InvariantCulture)}";
-        }
+internal class Product
+{
+    public Product(string? name, double price)
+    {
+        Name = name;
+        Price = price;
+    }
+
+    public string? Name { get; set; }
+    public double Price { get; set; }
+
+    public override string ToString()
+    {
+        return $"{Name}," +
+               $"{Price.ToString("F2", CultureInfo.InvariantCulture)}";
     }
 }
