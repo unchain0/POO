@@ -1,8 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "TtzvL+I4e78h09Kti9UAciEPFMAYAJn6+/oq9+zkAHwsTY8mhIUECrXYqXkEHNaIEAh7wZsiNFy4acxwL9hDkg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\felip\\source\\repos\\Aulas\\Listas - P1\\Listas - P1\\Listas - P1.csproj",
+  "dgSpecHash": "WC9pIWTHFVXzMy+22c1sKxf2NPvLESLcZ8/0FumrZrpA+d/pvd0jXCU7hTK8+jtwyKJHLkkyWc3YAQzw6EnbvQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\f4dra\\Desktop\\GitHub\\POO\\Aulas\\Listas - P1\\Listas - P1\\Listas - P1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.WindowsDesktop.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "TzAyZyH9JQ9feUEy/SS7wBBsaifjVD7B1xO4WxurJrDotDNHZZ2ZB+M2QjzdnI1Hg5LnhURiaQuqgRcamax06g==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Exercícios\\24. Exercícios propostos - PARTE 1\\24. Exercícios propostos - PARTE 1.csproj",
+  "dgSpecHash": "XVsRCleoHrf56oIinCek/R/bNHWHyLYG2mEdcV4VprTdfPPNisjZxgQgtmZJB0Qq7y/emqr0epy57ls9BvVkHQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\f4dra\\Desktop\\GitHub\\POO\\Exercícios\\24. Exercícios propostos - PARTE 1\\24. Exercícios propostos - PARTE 1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.WindowsDesktop.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
