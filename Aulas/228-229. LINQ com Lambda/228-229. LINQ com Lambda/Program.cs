@@ -1,9 +1,11 @@
 ﻿using _228_229._LINQ_com_Lambda.Entities;
 using System.Globalization;
 
-static void Print<T>(string message, IEnumerable<T> collection) {
+static void Print<T>(string message, IEnumerable<T> collection)
+{
     Console.WriteLine(message);
-    foreach (T obj in collection) {
+    foreach (T obj in collection)
+    {
         Console.WriteLine(obj);
     }
 
@@ -47,7 +49,8 @@ Print("NAME OF PRODUCTS FROM TOOLS:", r2);
 var r3 =
     from p in products
     where p.Name[0] == 'C'
-    select new {
+    select new
+    {
         p.Name,
         p.Price,
         CategoryName = p.Category.Name
@@ -62,7 +65,8 @@ IOrderedEnumerable<Product>? r4 =
     orderby p.Price
     select p;
 Console.WriteLine("TIER 1 ORDER BY PRICE THEN BY NAME:");
-foreach (Product p in r4) {
+foreach (Product p in r4)
+{
     Console.WriteLine(p);
 }
 Console.WriteLine();
@@ -115,9 +119,11 @@ Console.WriteLine("Category 1 Aggregate sum: $" + r15.ToString("F2", CultureInfo
 IEnumerable<IGrouping<Category, Product>>? r16 =
     from p in products
     group p by p.Category;
-foreach (IGrouping<Category, Product> group in r16) {
+foreach (IGrouping<Category, Product> group in r16)
+{
     Console.WriteLine($"\nCategory {group.Key.Name}:");
-    foreach (Product p in group) {
+    foreach (Product p in group)
+    {
         Console.WriteLine(p);
     }
 }

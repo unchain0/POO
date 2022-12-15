@@ -1,17 +1,21 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _70_Vetores_PARTE_2 {
+namespace _70_Vetores_PARTE_2
+{
 
-    internal class Program {
+    internal class Program
+    {
 
-        private static void Main(string[] args) {
+        private static void Main(string[] args)
+        {
             int n = int.Parse(Console.ReadLine());
 
             Product[] vect = new Product[n];
 
             double sum = 0.0;
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++)
+            {
                 Console.Write("\nProduto #" + (i + 1) + "\nNome: ");
                 string name = Console.ReadLine();
                 Console.Write("Preço: R$");
