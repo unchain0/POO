@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace _45._Exercícios_propostos__classes__atributos_e_métodos_ {
@@ -12,7 +12,7 @@ namespace _45._Exercícios_propostos__classes__atributos_e_métodos_ {
         }
 
         private static void ex001() {
-            Retangulo retangulo = new Retangulo();
+            Retangulo retangulo = new();
 
             Console.Write("Entre a largura e altura do retângulo: ");
             string[] vet = Console.ReadLine().Split(' ');
@@ -25,7 +25,7 @@ namespace _45._Exercícios_propostos__classes__atributos_e_métodos_ {
         }
 
         private static void ex002() {
-            Funcionario funcionario = new Funcionario();
+            Funcionario funcionario = new();
 
             Console.Write("Nome: ");
             funcionario.Nome = Console.ReadLine();
@@ -44,7 +44,7 @@ namespace _45._Exercícios_propostos__classes__atributos_e_métodos_ {
         }
 
         private static void ex003() {
-            Aluno aluno = new Aluno();
+            Aluno aluno = new();
 
             Console.Write("Nome do aluno: ");
             aluno.Nome = Console.ReadLine();

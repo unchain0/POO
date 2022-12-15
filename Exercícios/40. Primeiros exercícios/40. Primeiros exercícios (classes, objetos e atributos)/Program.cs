@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace _40._Primeiros_exercícios__classes__objetos_e_atributos_ {
@@ -59,8 +59,8 @@ namespace _40._Primeiros_exercícios__classes__objetos_e_atributos_ {
         }
 
         private static void ex002() {
-            Funcionario f1 = new Funcionario();
-            Funcionario f2 = new Funcionario();
+            Funcionario f1 = new();
+            Funcionario f2 = new();
 
             Console.Write("Dados do primeiro funcionário:\nNome: ");
             f1.Nome = Console.ReadLine();

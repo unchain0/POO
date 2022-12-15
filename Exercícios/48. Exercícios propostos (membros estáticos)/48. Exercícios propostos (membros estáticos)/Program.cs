@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace _48._Exercícios_propostos__membros_estáticos_ {
@@ -6,7 +6,7 @@ namespace _48._Exercícios_propostos__membros_estáticos_ {
     internal class Program {
 
         private static void Main(string[] args) {
-            ConversorDeMoeda conversor = new ConversorDeMoeda();
+            ConversorDeMoeda conversor = new();
 
             Console.Write("Qual é a contação do dólar? ");
             conversor.Cotacao = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
