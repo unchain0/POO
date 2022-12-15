@@ -1,4 +1,4 @@
-﻿#pragma warning disable CS8602
+#pragma warning disable CS8602
 #pragma warning disable CS8604
 #pragma warning disable CS8600
 
@@ -40,7 +40,7 @@ try {
          where e.Name[0] == 'M'
          select e.Salary).DefaultIfEmpty(0.0).Sum();
 
-    Print($"Email of people whose salary is more than " +
+    Print("Email of people whose salary is more than " +
         $"{limit.ToString("F2", CultureInfo.InvariantCulture)}:", r1);
 
     Console.WriteLine("Sum of salary of people whose name starts with 'M': " +

@@ -1,4 +1,4 @@
-﻿using _123._Exercício_proposto.Entities.Enums;
+using _123._Exercício_proposto.Entities.Enums;
 using System.Globalization;
 using System.Text;
 
@@ -49,7 +49,7 @@ namespace _123._Exercício_proposto.Entities
             sb.AppendLine($"Order moment: {DateTime.Now}");
             sb.AppendLine($"Order status: {Status}");
             sb.AppendLine($"Client: {Client.Name} ({Client.BirthDate:dd/MM/yyyy}) - {Client.Email}");
-            sb.AppendLine($"Order items:");
+            sb.AppendLine("Order items:");
             foreach (OrderItem item in Items)
             {
                 sb.AppendLine($"{item.Product.Name}, ${item.Product.Price.ToString("F2", CultureInfo.InvariantCulture)}, Quantity: {item.Quantity}, Subtotal: ${item.SubTotal().ToString("F2", CultureInfo.InvariantCulture)}");
