@@ -4,6 +4,6 @@ version = 1
 name = "csharp"
 enabled = true
 
-[[analyzers]]
-name = "cxx"
+[[transformers]]
+name = "dotnet-format"
 enabled = true
