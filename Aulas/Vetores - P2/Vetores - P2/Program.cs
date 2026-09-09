@@ -1,16 +1,20 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Vetores___P2 {
+namespace Vetores___P2
+{
 
-    internal class Program {
+    internal class Program
+    {
 
-        private static void Main(string[] args) {
+        private static void Main(string[] args)
+        {
             Console.Write("Quantos produtos? ");
             int n = int.Parse(Console.ReadLine());
             Product[] vect = new Product[n];
 
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++)
+            {
                 Console.Write("\nNome: ");
                 string name = Console.ReadLine();
                 Console.Write("Preço: $ ");
@@ -19,7 +23,8 @@ namespace Vetores___P2 {
             }
 
             double sum = 0.0;
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++)
+            {
                 sum += vect[i].Price;
             }
 

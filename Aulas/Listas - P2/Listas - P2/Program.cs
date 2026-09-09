@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Listas___P2 {
+namespace Listas___P2
+{
 
-    internal class Program {
+    internal class Program
+    {
 
-        private static void Main(string[] args) {
+        private static void Main(string[] args)
+        {
             List<string> list = new();
 
             list.Add("Maria");
@@ -14,7 +17,8 @@ namespace Listas___P2 {
             list.Add("Anna");
             list.Insert(2, "Marco");
 
-            foreach (string obj in list) {
+            foreach (string obj in list)
+            {
                 Console.WriteLine(obj);
             }
             Traçin();
@@ -32,19 +36,22 @@ namespace Listas___P2 {
             Console.WriteLine($"Last position 'A': {pos2}");
 
             List<string> list2 = list.FindAll(x => x.Length == 5); // Names that begin with the letter M
-            foreach (string obj in list2) {
+            foreach (string obj in list2)
+            {
                 Console.WriteLine(obj);
             }
 
             list.RemoveRange(2, 2); // Marco and Bob removed:
             Traçin();
-            foreach (string obj in list) {
+            foreach (string obj in list)
+            {
                 Console.WriteLine(obj);
             }
 
             list.RemoveAll(x => x[0] == 'M'); // Removed names with the letter M:
             Traçin();
-            foreach (string obj in list) {
+            foreach (string obj in list)
+            {
                 Console.WriteLine(obj);
             }
         }

@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _89._DateTime___representando_data_e_hora {
-    internal class Program {
-        static void Main(string[] args) {
+namespace _89._DateTime___representando_data_e_hora
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
 
             DateTime d1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
             DateTime d2 = DateTime.ParseExact("31/10/2021 16:08:50", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);

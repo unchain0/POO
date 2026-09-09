@@ -1,13 +1,16 @@
 ﻿using System.Globalization;
 
-namespace _228_229._LINQ_com_Lambda.Entities {
-    internal class Product {
+namespace _228_229._LINQ_com_Lambda.Entities
+{
+    internal class Product
+    {
         public int Id { get; set; }
         public string Name { get; set; }
         public double Price { get; set; }
         public Category Category { get; set; }
 
-        public override string ToString() {
+        public override string ToString()
+        {
             return $"Id: {Id}, " +
                 $"Name: {Name}, " +
                 $"${Price.ToString("F2", CultureInfo.InvariantCulture)}, " +

@@ -1,10 +1,13 @@
 ﻿using System;
 
-namespace Nullable {
+namespace Nullable
+{
 
-    internal class Program {
+    internal class Program
+    {
 
-        private static void Main(string[] args) {
+        private static void Main(string[] args)
+        {
             double? x = null;
             double? y = 10;
 
